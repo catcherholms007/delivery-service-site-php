@@ -3,7 +3,7 @@
     padding: 0px;
     width: 100%;
     font-family: arial;
-    background-image: url("./images/background.png");
+    background-image: url("./images/background_light.jpg");
 }
 
 UL {
@@ -124,7 +124,7 @@ UL {
 }
 
 #banner {
-    background-image: url('./images/banner.png');
+    background-image: url('./images/banner_light.jpg');
     width: 100%;
     height: 292px;
     margin-bottom: 20px;
@@ -170,21 +170,21 @@ UL {
     width: 290px;
     height: 202px;
     float: left;
-    background-image: url("./images/worker1.png");
+    background-image: url("./images/worker1_light.jpg");
 }
 
 #worker2 {
     width: 290px;
     height: 202px;
     float: left;
-    background-image: url("./images/worker2.png");
+    background-image: url("./images/worker2_light.jpg");
 }
 
 #worker3 {
     width: 290px;
     height: 202px;
     float: left;
-    background-image: url("./images/worker3.png");
+    background-image: url("./images/worker3_light.jpg");
 }
 
 #dostavkaType {
@@ -370,7 +370,7 @@ p {
     width: 100%;
     font-family: arial;
     font-weight: bold;
-    color: rbg(47, 47, 47);
+    color: rgb(47, 47, 47);
     background-image: url("./images/dostavkaItem.png");
     height: 53px;
     vertical-align: middle;
@@ -378,7 +378,7 @@ p {
 }
 
 .dostavkaItem1 {
-    background-image: url("./images/dostavkaItem1.png");
+    background-image: url("./images/dostavkaItem1_light.jpg");
     width: 208px;
     float: left;
     height: 204px;
@@ -386,7 +386,7 @@ p {
 }
 
 .dostavkaItem2 {
-    background-image: url("./images/dostavkaItem2.png");
+    background-image: url("./images/dostavkaItem2_light.jpg");
     width: 208px;
     float: left;
     height: 204px;
@@ -394,7 +394,7 @@ p {
 }
 
 .dostavkaItem3 {
-    background-image: url("./images/dostavkaItem3.png");
+    background-image: url("./images/dostavkaItem3_light.jpg");
     width: 208px;
     float: left;
     height: 204px;
@@ -402,7 +402,7 @@ p {
 }
 
 .dostavkaItem4 {
-    background-image: url("./images/dostavkaItem4.png");
+    background-image: url("./images/dostavkaItem4_light.jpg");
     width: 208px;
     float: left;
     height: 204px;
